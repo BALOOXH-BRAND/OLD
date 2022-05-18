@@ -1,2 +1,2 @@
 import BXB
-BXB.Main()
+BXB.fbtua()
