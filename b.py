@@ -1,1 +1,2 @@
-b.py
+import BXB
+BXB.Main()
